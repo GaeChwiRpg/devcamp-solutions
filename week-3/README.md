@@ -1,6 +1,6 @@
 # 04-week3-backend-resume
 
-> 교재: `books/04-week3-backend-resume-differentiation.md` (특히 1·4장 "탈락 vs 눈에 띄는 이력서" + "수치화 패턴")
+> 교재: [`6주 완성! 백엔드 이력서 차별화 전략 4가지`](https://www.inflearn.com/course/6%EC%A3%BC%EC%99%84%EC%84%B1-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EB%8F%8B%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%B2%95?cid=336372) 1장 참고
 
 이번 주는 단순히 이력서 문장을 바꾸는 게 아니라, **책의 "수치화 패턴" + "문제해결 서사"** 두 프레임을 본인 이력서에 적용하는 미션입니다.
 
@@ -38,7 +38,7 @@
 
 ## 미션 시작 전에 보면 좋은 것
 
-1. 교재 `books/04-week3-backend-resume-differentiation.md` 1·4장
+1. 교재 [`6주 완성! 백엔드 이력서 차별화 전략 4가지`](https://www.inflearn.com/course/6%EC%A3%BC%EC%99%84%EC%84%B1-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EB%8F%8B%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%B2%95?cid=336372) 1장
 2. 이 README의 "이번 주에 해야 하는 것" + "평가 기준"
 3. 본인의 사전학습~Week 2 evidence 파일들 — 수치 출처 추적용
 4. `evidence/README.md` — 어떤 자산을 남겨야 하는지
