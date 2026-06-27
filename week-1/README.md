@@ -1,6 +1,6 @@
 # 02-week1-spring-boot
 
-> 교재: `books/02-week1-lv1-spring-boot-required.md` (Spring Boot 필수 파트, 1~6교시)
+> 교재: `[Lv1] 면접에서 '설명할 수 있는' Spring Boot` (Spring Boot 필수 파트, 1~6교시)
 
 이번 주는 책의 **HTTP/JSON 기초 → 첫 API → 3계층 분리 → @Transactional → Postman 검증** 흐름을 본인 손으로 한 번 끝까지 돌리는 미션입니다.
 
@@ -45,7 +45,7 @@
 
 ## 미션 시작 전에 보면 좋은 것
 
-1. 교재 `books/02-week1-lv1-spring-boot-required.md` 1~6교시
+1. 교재 `[Lv1] 면접에서 '설명할 수 있는' Spring Boot` 1~6교시
 2. 이 README의 "이번 주에 해야 하는 것" + "평가 기준"
 3. `project/README.md` — Spring Initializr 시작 가이드 + 4 endpoint 표
 4. `evidence/README.md` — 어떤 evidence를 남겨야 하는지

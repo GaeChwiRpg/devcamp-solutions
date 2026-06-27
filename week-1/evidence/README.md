@@ -1,6 +1,6 @@
 # Evidence
 
-이 폴더는 교재 `books/02-week1-lv1-spring-boot-required.md` 핵심 학습 포인트가 본인 작업에 적용된 흔적을 남기는 곳입니다.
+이 폴더는 교재 `[Lv1] 면접에서 '설명할 수 있는' Spring Boot` 핵심 학습 포인트가 본인 작업에 적용된 흔적을 남기는 곳입니다.
 
 ## API 자산
 
