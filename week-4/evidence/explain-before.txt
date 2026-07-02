@@ -1,0 +1,24 @@
+# EXPLAIN Before — 인덱스 추가 전
+
+쿼리(GET /api/products):
+  SELECT * FROM products
+  WHERE status = 'ACTIVE'
+  ORDER BY created_at DESC
+  LIMIT 20;
+
+H2 EXPLAIN ANALYZE 출력 발췌 (시드 10만 row 기준):
+
+  selectFromProducts:
+    PUBLIC.PRODUCTS.TABLE_SCAN
+    /* table scan */
+    /* scanCount: 100001 */
+    sort: createdAt DESC
+    limit: 20
+
+핵심 신호:
+- type: TABLE_SCAN
+- scanCount: 약 10만 (전체 row 훑음)
+- 정렬은 메모리에서 수행 (filesort)
+
+학생은 본인 측정 결과로 교체. 도구는 H2 CLI / DBeaver / IntelliJ DB 중 1택 가능
+(`MEASUREMENT-OPTIONS.md` 참조).
