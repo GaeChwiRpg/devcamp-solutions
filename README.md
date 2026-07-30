@@ -11,6 +11,7 @@
 - [Week 5](./week-5/)
 - [Week 6](./week-6/)
 - [Week 7](./week-7/)
+- [Week 8](./week-8/)
 
 ## 구성
 
